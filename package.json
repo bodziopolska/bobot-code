@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Najlepszy bot",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
